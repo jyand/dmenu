@@ -11,7 +11,9 @@ This build installs to /opt by default so either:
 
 Afterwards enter the following command to build and install dmenu
 (if necessary as root):
+
         make install
+
         make clean
 
 In order to build dmenu you need the Xlib header files.
@@ -19,8 +21,10 @@ In order to build dmenu you need the Xlib header files.
 Basic
 -----
 * to use as an application launcher:
+
         dmenu_run
 * to display standard output:
+
         ... | dmenu 
 
 See the man page for details.
