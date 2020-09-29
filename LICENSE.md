@@ -1,6 +1,6 @@
 MIT/X Consortium License
 
-© 2020 John DeSalbo <jyand@protonmail.com>
+© 2020 John DeSalvo <jyand@protonmail.com>
 © 2006-2019 Anselm R Garbe <anselm@garbe.ca>
 © 2006-2008 Sander van Dijk <a.h.vandijk@gmail.com>
 © 2006-2007 Michał Janeczek <janeczek@gmail.com>
